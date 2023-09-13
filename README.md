@@ -1,6 +1,6 @@
 # Task Manager
 
-Welcome to this Django project! This README file will help you understand what each file and folder in the project does. 
+This README file will help you understand what each file and folder in the project does. 
 
 ## How the Project is Organized
 
