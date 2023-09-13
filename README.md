@@ -1,8 +1,4 @@
-Of course! Below is a simplified version of the README.md that explains the Django project structure using beginner-friendly language.
-
----
-
-# My Django Project
+# Task Manager
 
 Welcome to this Django project! This README file will help you understand what each file and folder in the project does. 
 
@@ -65,9 +61,9 @@ myproject/
   
   - `views.py`: This file decides what the user will see when they visit different parts of your website.
 
-    - **Back-end Code**: [Your description here]
+    - **Back-end Code**: [PLACEHOLDER]
   
-    - **Front-end Code**: [Your description here]
+    - **Front-end Code**: [PLACEHOLDER]
 
 ### Utility Script
 
